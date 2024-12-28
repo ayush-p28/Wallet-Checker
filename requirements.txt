@@ -1,7 +1,7 @@
 blinker
 certifi
-charset-normalizer
 click
+charset-normalizer
 colorama
 contourpy
 cycler
